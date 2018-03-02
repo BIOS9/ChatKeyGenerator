@@ -1,0 +1,10 @@
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\bin\Debug\ChatKeyGenerator.exe.config
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\bin\Debug\ChatKeyGenerator.exe
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\bin\Debug\ChatKeyGenerator.pdb
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\obj\Debug\ChatKeyGenerator.csprojResolveAssemblyReference.cache
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\obj\Debug\ChatKeyGenerator.Form1.resources
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\obj\Debug\ChatKeyGenerator.Properties.Resources.resources
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\obj\Debug\ChatKeyGenerator.csproj.GenerateResource.Cache
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\obj\Debug\ChatKeyGenerator.csproj.CoreCompileInputs.cache
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\obj\Debug\ChatKeyGenerator.exe
+\\alpha\NightFish\Home\Code\Projects\ChatKeyGenerator\ChatKeyGenerator\obj\Debug\ChatKeyGenerator.pdb
